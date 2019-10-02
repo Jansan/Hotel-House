@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Single Hotel1",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Single Hotel2",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Single Hotel3",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Single Hotel4",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Single Hotel5",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Single Hotel6",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-6.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Single Hotel7",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-7.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Single Hotel8",
+        "price": 410000.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-8.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
